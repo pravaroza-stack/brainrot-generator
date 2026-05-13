@@ -33,8 +33,11 @@ jobs:
 
       - name: Download background video
         run: |
-          pip install yt-dlp
-          python -m yt_dlp -f "best[height<=720][ext=mp4]" --no-playlist -o "videoplayback.mp4" "https://www.youtube.com/watch?v=n_Dv4JMiwK8"
+          # Use a free stock video (Pexels - satisfying/abstract loop)
+          curl -L -o videoplayback.mp4 "https://videos.pexels.com/video-files/3129671/3129671-uhd_2560_1440_30fps.mp4" || \
+          curl -L -o videoplayback.mp4 "https://videos.pexels.com/video-files/856973/856973-hd_1920_1080_30fps.mp4" || \
+          # Fallback: generate a simple colored background video
+          ffmpeg -f lavfi -i color=c=purple:s=720x1280:d=120 -f lavfi -i anullsrc -shortest -c:v libx264 -pix_fmt yuv420p videoplayback.mp4
 
       - name: Generate and upload video
         env:
