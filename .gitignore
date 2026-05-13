@@ -1,16 +1,35 @@
-/brainrot
-/.git
-/.vscode
-/__pycache__
-/vosk-model-en-us-0.22
-/Roboto-ExtraBold.ttf
-/final_video_with_subs.mp4
-/final_video.mp4
-/output_0.wav
-/tts_output.wav
-/videoplayback.mp4
-/test.py
-/eehjpdesign4h634.pdf
-/example.pdf
-/kokoro_script.txt
-/snippet.py
+# Virtual environment
+venv/
+.venv/
+
+# Video/audio files (generated)
+*.mp4
+*.wav
+*.mp3
+
+# Temporary files
+temp_*.wav
+__pycache__/
+*.pyc
+
+# FFmpeg binaries
+ffmpeg
+ffprobe
+
+# Models
+vosk-model-*/
+
+# Test files
+test.py
+snippet.py
+*.pdf
+
+# IDE/OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Keep these in repo
+!topics.json
+!requirements.txt
