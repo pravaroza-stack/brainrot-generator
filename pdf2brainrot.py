@@ -4,7 +4,7 @@ import asyncio
 from typing import List, Dict
 import torch
 import numpy as np
-from moviepy import VideoFileClip, AudioFileClip, CompositeVideoClip, TextClip
+from moviepy import VideoFileClip, AudioFileClip, CompositeVideoClip, TextClip, concatenate_videoclips
 import whisper_timestamped as whisper
 
 # Paths
@@ -60,9 +60,15 @@ def extract_timestamps(audio_path: str) -> List[Dict[str, str | float]]:
 
 
 def overlay_audio_on_video(video_path: str, audio_path: str, output_path: str) -> None:
-    """Overlay TTS audio onto video."""
+    """Overlay TTS audio onto video, looping video if needed."""
     video = VideoFileClip(video_path)
     audio = AudioFileClip(audio_path)
+
+    # Loop video if audio is longer than video
+    if audio.duration > video.duration:
+        loops_needed = int(audio.duration // video.duration) + 1
+        video = concatenate_videoclips([video] * loops_needed)
+        print(f"🔁 Looped video {loops_needed}x to match audio duration")
 
     video = video.subclipped(0, audio.duration).with_audio(audio)
     video.write_videofile(output_path, codec="libx264", fps=video.fps)
