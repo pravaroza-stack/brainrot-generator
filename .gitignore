@@ -33,3 +33,4 @@ Thumbs.db
 # Keep these in repo
 !topics.json
 !requirements.txt
+!background.mp4

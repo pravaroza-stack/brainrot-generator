@@ -8,7 +8,7 @@ from moviepy import VideoFileClip, AudioFileClip, CompositeVideoClip, TextClip, 
 import whisper_timestamped as whisper
 
 # Paths
-BASE_VIDEO = "videoplayback.mp4"
+BASE_VIDEO = "background.mp4"
 SCRIPT_PATH = "kokoro_script.txt"
 OUTPUT_VIDEO = "final_video.mp4"
 FONT_PATH = "./Roboto-ExtraBold.ttf"
