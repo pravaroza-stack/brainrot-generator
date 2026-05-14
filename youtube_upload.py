@@ -26,7 +26,10 @@ def get_access_token():
             "grant_type": "refresh_token"
         }
     )
-    response.raise_for_status()
+    if response.status_code != 200:
+        print(f"Token refresh failed: {response.status_code}")
+        print(f"Response: {response.text}")
+        response.raise_for_status()
     return response.json()["access_token"]
 
 
@@ -62,7 +65,11 @@ def upload_video(video_path: str, title: str, description: str, tags: list = Non
         },
         json=metadata
     )
-    init_response.raise_for_status()
+
+    if init_response.status_code != 200:
+        print(f"YouTube API Error: {init_response.status_code}")
+        print(f"Response: {init_response.text}")
+        init_response.raise_for_status()
 
     upload_url = init_response.headers["Location"]
 
