@@ -1,10 +1,10 @@
 pymupdf
-kokoro
+edge-tts
 soundfile
 scipy
 moviepy
-tqdm 
+tqdm
 ffmpeg-python
-imageio 
+imageio
 imageio-ffmpeg
 whisper_timestamped

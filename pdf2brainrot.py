@@ -1,91 +1,59 @@
 import os
 import argparse
+import asyncio
 from typing import List, Dict
 import torch
 import numpy as np
-from scipy.io import wavfile
-from moviepy import VideoFileClip, AudioFileClip, CompositeVideoClip, TextClip, concatenate_audioclips, AudioArrayClip
+from moviepy import VideoFileClip, AudioFileClip, CompositeVideoClip, TextClip
 import whisper_timestamped as whisper
-from kokoro import KPipeline
 
 # Paths
 BASE_VIDEO = "videoplayback.mp4"
 SCRIPT_PATH = "kokoro_script.txt"
 OUTPUT_VIDEO = "final_video.mp4"
 FONT_PATH = "./Roboto-ExtraBold.ttf"
-TTS_AUDIO_PATH = "tts_output.wav"
-
-# Constants
-PAUSE_DURATION = 0.2  # Silence duration in seconds when encountering \n
-TEXT_LEAD_TIME = 0.3  # Small offset to display text before spoken
-AUDIO_SAMPLE_RATE = 24000  # 24kHz
+TTS_AUDIO_PATH = "tts_output.mp3"
 
 # GPU acceleration if available
 device = "cuda" if torch.cuda.is_available() else "cpu"
 
-# Function to generate a silent audio clip
-def generate_silence(duration: float, sample_rate: int = AUDIO_SAMPLE_RATE) -> AudioArrayClip:
-    """Generates a silent audio clip of the given duration."""
-    num_samples = int(duration * sample_rate)
-    silence_array = np.zeros((num_samples, 1), dtype=np.float32)  # Ensure 2D array
-    return AudioArrayClip(silence_array, fps=sample_rate)
 
-# Function to generate TTS audio and stitch it together
-def generate_tts_audio(text: str, voice: str = "af_heart", speed: int = 1, lang_code: str = 'a') -> str:
-    """Generates TTS audio using kokoro and stitches it together."""
-    pipeline = KPipeline(lang_code=lang_code)  # English
-    
-    generator = pipeline(text, voice=voice, speed=speed, split_pattern=r'\n+')
+async def generate_tts_audio_hindi(text: str, output_path: str = "tts_output.mp3") -> str:
+    """Generate TTS audio using edge-tts with Hindi voice."""
+    import edge_tts
 
-    audio_clips = []
-    
-    for gs, ps, audio in generator:
-        audio = audio.to(device)
-        audio_np = audio.cpu().numpy()
-        audio_int16 = (audio_np * 32767).astype("int16")
+    # Hindi male voice - sounds natural for brainrot content
+    voice = "hi-IN-MadhurNeural"  # Hindi male voice
 
-        # Initial silence before each segment
-        pause_clip = generate_silence(PAUSE_DURATION)
-        audio_clips.append(pause_clip)
+    communicate = edge_tts.Communicate(text, voice, rate="+10%")
+    await communicate.save(output_path)
 
-        # Save each generated segment to a temporary WAV file
-        temp_audio_path = f"temp_{len(audio_clips)}.wav"
-        wavfile.write(temp_audio_path, AUDIO_SAMPLE_RATE, audio_int16)
-        audio_clips.append(AudioFileClip(temp_audio_path))
+    print(f"✅ Hindi TTS audio saved as {output_path}")
+    return output_path
 
-        # Add a small pause after each segment
-        audio_clips.append(pause_clip)
 
-    # Remove last pause to avoid extra silence at the end
-    if audio_clips:
-        audio_clips.pop()
-
-    # Concatenate all audio segments
-    final_audio = concatenate_audioclips(audio_clips)
-    final_audio_path = "tts_output.wav"
-    final_audio.write_audiofile(final_audio_path, fps=AUDIO_SAMPLE_RATE)
-
-    # Cleanup temporary audio files
-    for clip in audio_clips:
-        if hasattr(clip, "filename") and os.path.exists(clip.filename):
-            os.remove(clip.filename)
-
-    print(f"✅ Stitched audio saved as {final_audio_path}")
-    return final_audio_path  # Return the final audio file path
+def generate_tts_audio(text: str) -> str:
+    """Wrapper to run async TTS generation."""
+    return asyncio.run(generate_tts_audio_hindi(text))
 
 
 def extract_timestamps(audio_path: str) -> List[Dict[str, str | float]]:
-    """Extract timestamps using Vosk but without using Whisper."""
+    """Extract timestamps using Whisper with Hindi language detection."""
     audio = whisper.load_audio(audio_path)
 
     model = whisper.load_model("small", device=device)
 
-    result = whisper.transcribe(model, audio, language="en")
+    # Use Hindi language for better transcription
+    result = whisper.transcribe(model, audio, language="hi")
 
     word_timestamps = []
     for items in result["segments"]:
         for item in items["words"]:
-            word_timestamps.append({"text": item["text"], "start": item["start"], "duration": round(float(item["end"]) - float(item["start"]), 5)})
+            word_timestamps.append({
+                "text": item["text"],
+                "start": item["start"],
+                "duration": round(float(item["end"]) - float(item["start"]), 5)
+            })
 
     print(f"✅ Extracted {len(word_timestamps)} timestamps")
     return word_timestamps
@@ -138,8 +106,8 @@ def main() -> None:
     with open(SCRIPT_PATH, "r", encoding="utf-8") as file:
         script_text = file.read().strip()
 
-    # Generate TTS audio
-    print("🔊 Generating TTS audio...")
+    # Generate TTS audio (Hindi)
+    print("🔊 Generating Hindi TTS audio...")
     tts_audio_file = generate_tts_audio(script_text)
 
     # Overlay audio onto video
@@ -156,10 +124,6 @@ def main() -> None:
 
 
 if __name__ == "__main__":
-    parser = argparse.ArgumentParser(description="Extract text from a PDF file, summarize it, and generate brainrot with subtitles.")
-    # parser.add_argument("--source", "-s", required=True, help="Path to the source PDF file.")
- 
+    parser = argparse.ArgumentParser(description="Generate brainrot video with Hindi TTS.")
     args = parser.parse_args()
-
-    # extract_text_from_pdf(args.source)
     main()
