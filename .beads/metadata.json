@@ -1,0 +1,7 @@
+{
+  "database": "dolt",
+  "backend": "dolt",
+  "dolt_mode": "server",
+  "dolt_database": "PDF2BRAINROT",
+  "project_id": "320b1f6e-c830-4cbc-9f34-20bca00e324e"
+}
