@@ -1,0 +1,84 @@
+{
+  "exam_cycles": {
+    "january": {
+      "events": ["JEE Main Session 1", "Board exam prep begins"],
+      "hot_topics": ["physics_formulas", "chemistry_reactions", "math_shortcuts"],
+      "mood": "intense_prep"
+    },
+    "february": {
+      "events": ["Board practical exams", "JEE Main results"],
+      "hot_topics": ["practical_tips", "last_minute_revision", "stress_management"],
+      "mood": "crunch_time"
+    },
+    "march": {
+      "events": ["CBSE Board exams Class 10 & 12"],
+      "hot_topics": ["board_exam_hacks", "time_management", "important_questions"],
+      "mood": "exam_mode"
+    },
+    "april": {
+      "events": ["JEE Main Session 2", "Board exams continue"],
+      "hot_topics": ["jee_revision", "physics_numericals", "organic_chemistry"],
+      "mood": "intense_prep"
+    },
+    "may": {
+      "events": ["NEET", "CBSE Results", "JEE Advanced prep"],
+      "hot_topics": ["neet_biology", "result_anxiety", "jee_advanced_tips", "college_guidance"],
+      "mood": "results_and_prep"
+    },
+    "june": {
+      "events": ["JEE Advanced", "NEET Results", "College admissions begin"],
+      "hot_topics": ["jee_advanced", "college_choices", "counseling_tips"],
+      "mood": "decision_time"
+    },
+    "july": {
+      "events": ["JEE Advanced Results", "JOSAA Counseling", "New academic year starts"],
+      "hot_topics": ["branch_selection", "college_life", "iit_culture"],
+      "mood": "new_beginnings"
+    },
+    "august": {
+      "events": ["New batch JEE/NEET prep starts", "School reopens"],
+      "hot_topics": ["study_plans", "foundation_concepts", "motivation"],
+      "mood": "fresh_start"
+    },
+    "september": {
+      "events": ["Mid-term exams", "JEE/NEET coaching intensifies"],
+      "hot_topics": ["exam_strategies", "concept_clarity", "doubt_clearing"],
+      "mood": "building_momentum"
+    },
+    "october": {
+      "events": ["Diwali break", "Half-yearly exams"],
+      "hot_topics": ["revision_techniques", "balance_study_festival", "mock_tests"],
+      "mood": "steady_grind"
+    },
+    "november": {
+      "events": ["JEE Main registration", "NEET syllabus completion"],
+      "hot_topics": ["registration_tips", "syllabus_coverage", "weak_areas"],
+      "mood": "countdown_begins"
+    },
+    "december": {
+      "events": ["Winter break revision", "Full syllabus tests"],
+      "hot_topics": ["full_revision", "previous_year_papers", "time_management"],
+      "mood": "final_push"
+    }
+  },
+  "trending_topic_ideas": {
+    "may_2026": [
+      {
+        "id": "cbse_result_anxiety",
+        "title": "CBSE Result Aane Se Pehle Har Student 😰",
+        "script": "Hi mai Chinu hu aaj tujhe bataunga result anxiety ke baare mein jo har student feel karta hai.\nBhai result aane se pehle neend nahi aati, khana nahi khaya jaata. Parents ke sawaal se darr lagta hai, bc.\nPhone pe refresh refresh refresh karte raho. Server crash ho jaye toh aur anxiety. Saala CBSE ka server bhi tujhe ghost karta hai.\nMarks predict karte raho - yeh toh easy tha, yeh toh galat ho gaya. Khud ka calculator ban gaye ho, bsdk.\nDost se pucho uska kaisa gaya - agar uska accha gaya toh aur depression. Comparison ka chakkar, saale.\nAur sabse worst? Log poochenge kitne aaye. Tera marks public property ban jayega.\nPar sun, marks define nahi karte tujhe. Elon Musk average student tha, maa kasam. Chill kar aur follow for more!"
+      },
+      {
+        "id": "neet_last_day",
+        "title": "NEET Ke 1 Din Pehle Kya Kare? 🔥",
+        "script": "Hi mai Chinu hu aaj tujhe bataunga NEET ke ek din pehle kya karna chahiye.\nBhai ek din pehle naya topic mat padh. Jo nahi aata woh ab nahi aayega, bc. Accept kar le saale.\nSirf revision kar - formulas, diagrams, important reactions. Notes dekh apne, naye videos mat dekh.\nRaat ko jaldi so ja. 8 ghante neend le. Sleep deprived brain kuch yaad nahi rakh sakta, bsdk.\nExam center ka route pehle se dekh le. Kal bhatak gaya toh game over. Google Maps pe trust mat kar.\nAdmit card, ID proof, pen, pencil sab ek jagah rakh de aaj raat. Subah dhundhega toh panic hoga, saale.\nAur last mein - tu taiyaar hai. Itne mahine padhai ki hai. Confidence rakh aur perform kar, maa kasam. All the best! Follow for more!"
+      },
+      {
+        "id": "jee_advanced_vs_main",
+        "title": "JEE Main vs Advanced - Real Difference 🎯",
+        "script": "Hi mai Chinu hu aaj tujhe bataunga JEE Main aur Advanced mein asli farak kya hai.\nBhai JEE Main mein speed chahiye - 75 sawaal 3 ghante mein. Fast calculation, bc.\nJEE Advanced mein dimaag chahiye - conceptual depth. Har sawaal mein twist hoga, saale.\nMain mein MCQ hote hain mostly. Advanced mein numerical value type bhi - calculator allowed nahi, bsdk.\nMain clear karna relatively easy - top 2.5 lakh qualify karte hain. Advanced mein sirf top 10,000 IIT jaate hain.\nMain ke liye NCERT kaafi hai mostly. Advanced ke liye HC Verma, Irodov padho - rote raho, saale.\nPar dono mein consistency chahiye. Daily 6-8 ghante minimum. Shortcut nahi hai, maa kasam. Follow for more!"
+      }
+    ]
+  },
+  "current_month": "may"
+}

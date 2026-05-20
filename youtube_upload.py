@@ -97,6 +97,33 @@ def upload_video(video_path: str, title: str, description: str, tags: list = Non
     return video_id
 
 
+def upload_thumbnail(video_id: str, thumbnail_path: str):
+    """Upload a custom thumbnail for a video."""
+    access_token = get_access_token()
+
+    with open(thumbnail_path, "rb") as thumb_file:
+        response = requests.post(
+            "https://www.googleapis.com/upload/youtube/v3/thumbnails/set",
+            params={
+                "videoId": video_id,
+                "uploadType": "media"
+            },
+            headers={
+                "Authorization": f"Bearer {access_token}",
+                "Content-Type": "image/png"
+            },
+            data=thumb_file
+        )
+
+    if response.status_code == 200:
+        print(f"Thumbnail uploaded successfully for video {video_id}")
+        return True
+    else:
+        print(f"Thumbnail upload failed: {response.status_code}")
+        print(f"Response: {response.text}")
+        return False
+
+
 if __name__ == "__main__":
     import sys
 
