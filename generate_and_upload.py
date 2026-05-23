@@ -163,13 +163,16 @@ def generate_video():
     result = subprocess.run(
         ["python", "pdf2brainrot.py"],
         cwd=SCRIPT_DIR,
-        capture_output=True,
         text=True
     )
     if result.returncode != 0:
-        print(f"Error generating video: {result.stderr}")
         raise Exception("Video generation failed")
-    print("Video generated successfully!")
+
+    # Verify the video with subtitles was created
+    if not OUTPUT_VIDEO.exists():
+        raise Exception(f"Output video not found: {OUTPUT_VIDEO}")
+
+    print(f"Video generated successfully! Size: {OUTPUT_VIDEO.stat().st_size / 1024 / 1024:.1f} MB")
 
 
 def upload_to_youtube(title, description, tags):
