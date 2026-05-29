@@ -59,6 +59,11 @@
       "id": "definite_integral_properties",
       "title": "Definite Integral Ki Woh Property Jo JEE Mein Rula Deti Hai 😭",
       "script": "Hi mai Chinu hu aaj tujhe definite integrals ki woh property bataunga jisse JEE Advanced 2026 mein log rote reh gaye.\nBhai sun, ek jadui rule hai - integral a se b tak f(x)dx, wahi hoga agar x ki jagah a+b-x daalo. King's rule bolte hain isse, bc.\nJab bhi integral mein sin aur cos dono dikh rahe ho, ya numerator-denominator same lag rahe ho - yahi rule maaro saale.\nUpar waala integral plus neeche waala, dono add karo, f(x) cancel ho jaata hai, 1 bachta hai, divide by 2, answer aa jaata hai bsdk.\nJEE Advanced 2026 mein yahi aaya. Tere seniors ghante bhar calculate karte rahe, property yaad hoti toh 2 minute ka kaam tha.\nTeen properties yaad kar - King's rule, even-odd rule, periodic rule. Bas teen saale, ek baar samajh le.\nIIT wale tujhe formula se nahi, samajh se puchte hain - maa kasam. Follow for more!"
+    },
+    {
+      "id": "capacitor_energy_loss",
+      "title": "Capacitor Ko Charge Karo Aur Aadhi Energy Gum Ho Jaye 🤯",
+      "script": "Hi mai Chinu hu aaj tujhe woh cheez bataunga jo JEE Advanced 2026 mein Electrostatics ke question mein sabko confuse kar gaya.\nBhai ek capacitor le, battery se connect kar, fully charge ho gaya. Battery ne Q charge diya, voltage V tha. Toh battery ne kitna kaam kiya? QV energy di.\nPar capacitor mein kitni energy store hui? Sirf half QV, yaani QV by 2. Baki aadhi energy gayi kahan, bc?\nYahi twist hai saale - aadhi energy hamesha heat mein waste ho jaati hai wire ki resistance mein. Chahe resistance zero bhi ho, phir bhi aadhi energy radiate ho jaati hai electromagnetic waves ke roop mein.\nYeh energy conservation violate nahi karta - energy conserve hoti hai, par half hamesha tumhare haath nahi aati, bsdk.\nIsliye capacitor ki stored energy half CV squared hai, full CV squared nahi. Yeh fact seedha exam mein aata hai.\nJEE Advanced 2026 mein Electrostatics ne sab ka kaam tamam kar diya - yeh property yaad hoti toh aadhe marks aur milte, maa kasam. Follow for more!"
     }
   ],
   "current_index": 9
