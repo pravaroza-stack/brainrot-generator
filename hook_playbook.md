@@ -1,5 +1,5 @@
 # Chinu Hook Playbook
-*Last updated: 2026-05-24*
+*Last updated: 2026-05-31*
 
 ---
 
@@ -10,6 +10,34 @@
 The brainrot format gives Chinu a structural edge: **dual-stimulus** (gameplay bottom + narration top) occupies two attention systems simultaneously. The verbal hook still needs to land in under 3 seconds to maximize this advantage.
 
 Build every hook using **three reinforcing layers**: visual + on-screen text + spoken line — all saying the same thing.
+
+**2026 algorithm update:** The viral window has compressed to **24–36 hours**. Early engagement signals (swipe-away rate in seconds 0–3, rewatch rate) now determine whether a Short breaks out or dies. A hook that loses 40% of viewers in second 1 cannot be rescued by great content at second 20.
+
+**Sound-off reality:** 60%+ of mobile viewers watch with sound off. This means the spoken hook alone fails more than half your audience. Every hook needs a visible text layer to work.
+
+---
+
+## First Frame Overlay Strategy
+
+The first frame — frame 0, before any narration — is now a standalone hook opportunity. Treat it like a thumbnail that moves.
+
+**Rules for first-frame text overlays:**
+- **4–7 words max** — readable in a split second, no wrapping
+- **High contrast only** — yellow, white, or electric blue on dark background consistently outperform other combos in 2026 retention data
+- **Top or bottom safe zones** — center gets obscured by UI elements on some devices
+- **Stays on screen ≥ 2 seconds** — under 2 seconds and it registers as a subliminal flash, not a hook
+- **Reinforces the spoken line** — not a different message, the same message redundantly delivered
+
+**Examples matched to hook types:**
+
+| Spoken hook | First-frame text |
+|---|---|
+| `Kya tu jaanta hai JEE mein yeh property hai?` | `❌ 99% JEE students miss this` |
+| `Bhai yeh sun ke tera dimag ghoom jayega` | `Your brain is 99.9% empty space 🤯` |
+| `NCERT mat padh — seriously` | `Stop reading NCERT (seriously)` |
+| `4 billion saal lage evolution ko` | `4,000,000,000 years → this result 💀` |
+
+Never start with a logo, channel intro, or blank frame. Motion + text in frame 0 is the 2026 standard.
 
 ---
 
@@ -170,6 +198,14 @@ Promises a structured, finite list with a clear payoff.
 | Self-Roast | In-group humor, scroll-stop absurdism | Biology, physics, evolution |
 | Countdown/List | Clear payoff, effort-reward signal | Tips, rules, strategies |
 
+### The System 1 Principle (2026 addition)
+
+All 10 hooks target **System 1** — the brain's fast, automatic, emotional processing layer. System 1 cannot be argued with; it reacts. System 2 (slow, rational) only engages after System 1 decides to stay.
+
+The brainrot format is itself a System 1 exploit: continuous gameplay motion keeps the emotional brain busy so it doesn't swipe. The spoken hook needs to activate System 1 further via one of: **threat** (stakes), **reward** (curiosity/secrets), **belonging** (relatable/roast), or **surprise** (shock/number). Pick one, hit it hard in second 0–2, then deliver on it.
+
+**Variable reward pacing:** Structure the short so there's a mini-payoff every 5–8 seconds. Each payoff resets the "should I keep watching?" decision. Treat it like a slot machine: pull (hook) → small win (interesting fact) → bigger win (punchline/solution) → jackpot (subscribe-worthy closer).
+
 ---
 
 ## Hooks to AVOID
@@ -186,45 +222,58 @@ Promises a structured, finite list with a clear payoff.
 8. **Multiple questions in the first 5 seconds** — viewer doesn't know which to answer, answers none.
 9. **"Part 1 of a series"** — new viewers don't want homework. Make every short standalone.
 10. **Slow reveal builds** — works on long-form, kills shorts. State the wildest thing first, explain second.
+11. **Blank first frame** — no text overlay in frame 0 = wasted impression with 60% of sound-off viewers.
+12. **White or light background text** — low contrast in frame 0 is invisible in dark mode and outdoors. Use yellow, white on dark, or electric blue only.
 
 ---
 
 ## 5 New Chinu-Style Hooks to Try This Week
+*(Week of May 31, 2026)*
 
 These are A/B test candidates — each uses a different psychological lever. Post with the same content, different hook, 48–72 hours apart.
 
-### Hook A — Direct Address Roast
-> *"Bhai tu NEET de raha hai aur yeh ek property nahi jaanta — aaj fix karte hain, bc."*
+### Hook A — Ego Provocation + Instant Payoff
+> *"Tera JEE ka score yeh ek property nahi jaanta ki wajah se gir raha hai — 60 second mein fix karta hu, bc."*
 
-**Why try it:** Direct "you" address + mild roast + instant promise of resolution. Very low resistance to keep watching.
+**First-frame text:** `Your JEE score is bleeding here ❌`
 
----
-
-### Hook B — Absurd Comparison First
-> *"Tera DNA sun se 600 baar ja sakta hai — aur tu bolta hai padhai mushkil hai, saale."*
-
-**Why try it:** Shock number + relatable self-roast combo. Works on science shorts, links abstract fact to viewer's daily reality.
+**Why try it:** Combines ego-threat (your score is suffering) with specific cause + immediate fix promise. The "60 second" time box lowers commitment resistance.
 
 ---
 
-### Hook C — Time Pressure Stakes
-> *"JEE Advanced mein yeh property 10 second mein solve karti hai — agar tujhe nahi pata toh yeh video tujhe 20 marks dega."*
+### Hook B — Absurd Scale Opening
+> *"Teri aankhon mein 126 million light sensors hain — aur tu unhe JEE ke liye use nahi kar raha sahi se, saale."*
 
-**Why try it:** Stakes hook + specific promise. "20 marks" is hyper-specific — specificity = credibility = trust = watch.
+**First-frame text:** `126,000,000 sensors. 0 results. 💀`
 
----
-
-### Hook D — Contrarian Start
-> *"NCERT mat padh — seriously. Sun pehle, bc."*
-
-**Why try it:** Contrarian takes get 3x the completion rate in edu-shorts. Shocking advice from a trusted channel triggers "wait, what?" response. Payoff: nuanced advice follows.
+**Why try it:** Rapid number hook + body-ownership surprise + shame pivot into educational content. Number is specific enough to feel researched.
 
 ---
 
-### Hook E — Pure Absurdism
-> *"Bhai tu kal se noodle ban sakta hai — agar black hole wala plan chal gaya toh, saale."*
+### Hook C — Contrarian Instruction
+> *"Revision band kar — seriously. Sun pehle, bc."*
 
-**Why try it:** Pure comedy hook for science topics. Low-commitment viewer watches because it's funny, stays because it's actually educational. Best for physics/space videos.
+**First-frame text:** `STOP revising (I'm serious)`
+
+**Why try it:** Contrarian takes get 3x completion in edu-shorts per 2026 data. Shocking instruction from an education channel creates cognitive dissonance that can only be resolved by watching.
+
+---
+
+### Hook D — Split-Second Roleplay
+> *"Examiner ki taraf se baat kar raha hu — yeh galti mat karna, nahi toh 5 marks directly cut, saale."*
+
+**First-frame text:** `Examiner is watching you 👁️`
+
+**Why try it:** Perspective shift to examiner voice is novel in the JEE/NEET space. It's a threat framed as insider access — combines stakes hook with teacher-secrets hook.
+
+---
+
+### Hook E — Self-Roast Science Drop
+> *"Tu 13.8 billion saal puraani dust ka pile hai jo somehow JEE de raha hai — respect, bc. Aur aaj yeh dust ko integral sikhaunga."*
+
+**First-frame text:** `13,800,000,000 years → this creature 💀`
+
+**Why try it:** Pure absurdist self-roast with cosmic scale. Comedy hook for physics/chemistry. Low commitment to watch — viewer thinks it's going to be funny, stays for content.
 
 ---
 
@@ -237,8 +286,10 @@ These are A/B test candidates — each uses a different psychological lever. Pos
 | Number first vs fact first | "37 trillion cells hain" vs "Tere andar 37 trillion cells hain" | Word order changes scroll-stop speed |
 | Stakes vs curiosity | Hook C (stakes) vs Hook A (direct roast) | Which drives higher watch-through on exam prep topics |
 | Roast tone vs warm tone | Chinu's current style vs softer opener | Check if harshness is a feature or bug for retention |
+| Text overlay vs no overlay | Same spoken hook, one with bold first-frame text, one without | Measures sound-off audience recovery |
+| Contrarian vs direct | Hook C (stop revising) vs direct tip delivery | Contrarian has higher ceiling but higher risk; baseline needed |
 
-Post variations 48–72 hours apart. Minimum 1,000 views per variant before reading results. Track: **average view duration %** (primary), then like rate.
+Post variations 48–72 hours apart. Minimum 1,000 views per variant before reading results. Track: **average view duration %** (primary), then like rate. In the 24–36 hour viral window, check swipe-away rate in YouTube Studio at hour 6 — if >50% leave in second 0–3, kill the variation and repost with the winning hook.
 
 ---
 
@@ -276,4 +327,13 @@ This variation is highest risk, highest reward — works when the content is str
 
 ---
 
-*Sources consulted: vidIQ 2026 hook guide, OpusClip short formulas, Conbersa best formats, Crescitaly curiosity loops, Marketeze 2026 analysis, TrueFan India shorts tips.*
+### Variation 5 — Examiner Voice Drop (new)
+> *"Examiner ki taraf se ek warning — [specific mistake]. Yaad rakh. [Chinu ka naam aakhir mein drop karo, end card par.]"*
+
+Example: *"Examiner ki taraf se ek warning — unit conversion bhool gaya toh 3 marks direct cut. Yaad rakh. Mai Chinu hu, aur yeh channel sirf woh batata hai jo examiners actually dekhte hain."*
+
+Opens with authority and threat before any identity reveal. Chinu's name lands as a trust signal at the end, not a preamble. Best for exam-tip shorts where the content itself is the credential.
+
+---
+
+*Sources: [vidIQ 2026 hook guide](https://vidiq.com/blog/post/viral-video-hooks-youtube-shorts/), [OpusClip short formulas](https://www.opus.pro/blog/youtube-shorts-hook-formulas), [Crescitaly curiosity loops](https://blog.crescitaly.com/youtube-shorts-hooks-curiosity-loops/), [Marketeze 2026 analysis](https://www.marketeze.ai/en/blog/youtube-shorts-hooks-what-works-in-2026), [TrueFan India shorts tips](https://www.truefan.ai/blogs/youtube-shorts-attention-grabbing-hooks-tips), [Conbersa viral shorts](https://www.conbersa.ai/learn/how-to-go-viral-on-youtube-shorts), [JoinBrands best practices](https://joinbrands.com/blog/youtube-shorts-best-practices/), [Miraflow 2026 guide](https://miraflow.ai/blog/how-to-go-viral-on-youtube-shorts-2026)*
