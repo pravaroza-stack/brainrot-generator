@@ -1,5 +1,5 @@
 # Pain Points — JEE / NEET / Board Students
-**Last updated:** 2026-06-06
+**Last updated:** 2026-06-10
 
 ---
 
@@ -16,6 +16,7 @@
 - ~60% of Physics marks come from Mechanics — Rotational Motion sits right at the top of it
 - Students memorise formulas (I = mr², τ = Iα) but can't decide *which* formula to use when a problem mixes rotation + translation
 - JEE Advanced 2026 and NEET 2026 both had "heavy numericals, time pressure, and multi-concept problems from Rotational Motion" flagged as hardest questions
+- **NEW (June 2026):** NEET 2026 re-exam specifically flagged Rotational Motion + Magnetism as the two Physics topics requiring the deepest conceptual clarity — not formula recall
 - Visual intuition (why does a spinning top not fall?) is completely missing from most coaching
 
 **Chinu angle:**
@@ -36,7 +37,8 @@
 - Theory reads fine, but MCQs under time pressure expose formula-switching confusion
 - Students mix up cathode/anode sign conventions between galvanic and electrolytic cells
 - Physical Chemistry carries 50–55% of Chemistry marks — Electrochemistry is a core chapter within it
-- NEET 2026 Chemistry paper: Physical Chemistry numericals were rated "slightly tough"
+- NEET 2026 Chemistry paper: Physical Chemistry numericals were rated "slightly tough"; Thermodynamics & Equilibrium also flagged as hard — Electrochemistry sits in the same cluster
+- **NEW (June 2026):** NEET 2026 Chemistry was described as "more conceptual and application-based" — rote learners got punished hard this year
 
 **Chinu angle:**
 > *"Galvanic cell = battery — apne aap react karta hai aur bijli deta hai. Electrolytic = charging — tujhe force karna padta hai. Yahi confusion clear karo aur 5 marks pakka."*
@@ -57,6 +59,7 @@
 - Students memorise the steps but confuse the enzymes at each step (primase vs helicase vs DNA pol III)
 - "Molecular Basis of Inheritance is considered tough by a lot of students" — direct quote from analysis
 - Questions now test application, not just recall — "which enzyme acts at the replication fork?"
+- **NEW (June 2026):** NEET 2026 Biology was heavily NCERT-based, but MBI is the one chapter where NCERT alone isn't enough — application questions tripped up mid-range scorers
 
 **Chinu angle:**
 > *"DNA replication ek construction site hai — helicase contractor hai jo zip kholti hai, primase primer laata hai, DNA polymerase bricks lagaata hai. Bas itna yaad karo."*
@@ -77,6 +80,8 @@
 - Students know which formula to use but lose 3–4 minutes per question on calculation steps
 - Calculus "demands mastery in formulas along with consistent practice" — practice gap is huge
 - JEE Advanced 2026: Calculus + Coordinate Geometry listed as top high-weightage tough topics
+- **NEW (June 2026):** JEE Advanced 2026 Paper 1 had Math described as "Paper 1 of JEE Advanced 2026 was among the toughest in recent years" — Calculus was the single biggest differentiator
+- **NEW (June 2026):** JEE Main 2026 Session 2: April 8 shift was the hardest, with Maths carrying disproportionate rank damage — students who cracked Calculus under time pressure made it
 
 **Chinu angle:**
 > *"Integration ka matlab hai — chhote chhote pieces jodo. Slice karo, jodo, answer nikalo. Ye wahi kaam hai jo pizza ke slice count karna tha, just with curves."*
@@ -96,7 +101,8 @@
 - Too many rules + too many exceptions → students give up on naming
 - Crystal Field Theory (d-orbital splitting, high spin vs low spin) feels abstract with no intuition
 - JEE Advanced 2026 specifically highlighted Coordination Compounds as a high-weightage tough topic
-- NEET 2026: Coordination compounds + p-block + d-block "asked in depth"
+- **NEW (June 2026):** NEET 2026 actual paper — Inorganic Chemistry dominated: Coordination compounds + p-block + d-block elements "asked in depth" — multiple sources confirm this was the main Chemistry differentiator
+- NEET 2026: Students who skipped Coordination Compounds for "easier" topics got hurt badly
 
 **Chinu angle:**
 > *"Central metal = boss, ligands = chamche. Strong field ligands (chamche jo kaam karte hain) force pairing, weak field ligands chhod dete hain electrons. Isliye colour aata hai!"*
@@ -119,8 +125,31 @@
 
 ---
 
+---
+
+## New Entrant to Watch — Electrostatics (Physics · NEET + JEE)
+**Priority: RISING — strong candidate for next update's Top 5**
+
+**The concept:** Coulomb's law, electric field, electric potential, capacitors, Gauss's law.
+
+**Why it's rising:**
+- NEET 2026 paper analysis flagged Electrostatics explicitly alongside Rotational Motion as a section requiring "deep conceptual clarity" — not just formula use
+- JEE Main 2026: Electrostatics + Electricity demand "clarity and practice" and appear in multiple shifts
+- Students confuse electric field (vector) vs electric potential (scalar) — classic 2-mark trap
+
+**Potential Chinu angle:**
+> *"Electric field matlab — ek charged bande ke aas paas ka 'mood zone'. Us zone mein ghuso toh force lagega. Potential matlab — us zone mein aane ka 'effort'. Bas itna farak hai."*
+- Mood zone analogy: field = influence zone, potential = entry cost
+- 45-second visual: positive charge as a "popular kid" whose zone pushes others away
+
+---
+
 ## Notes for Chinu
 
-- **Best immediate video:** Rotational Motion — widest audience (both JEE + NEET), confirmed hard in 2026 papers, strong analogy potential
-- **Quickest win:** Molecular Basis of Inheritance — 3-enzyme construction-site script can be written in 10 minutes, 5–7 marks guaranteed for NEET viewers
-- **Trend to watch:** JEE Maths difficulty spiked in 2026 — Calculus + 3D Geometry content has huge JEE audience appetite
+- **Best immediate video (June 10):** Rotational Motion — confirmed as NEET 2026 re-exam differentiator, JEE Advanced toughest topic, widest cross-exam audience
+- **Hot take video:** Calculus/Integration — JEE Advanced 2026 was "one of the toughest in recent years" with Calculus as the rank-killer; high outrage/relatability potential
+- **NEET-specific quick win:** Molecular Basis of Inheritance — NEET 2026 Biology was NCERT-heavy everywhere *except* this chapter; 5–7 marks, 10-minute script
+- **Sleeper hit:** Coordination Compounds — NEET 2026 confirmed it was asked "in depth"; most students skip it; surprise factor = high virality
+- **Watch list:** Electrostatics is rising — may enter Top 5 by next update if NEET re-exam data confirms it
+
+**June 10 update summary:** All 5 existing pain points confirmed by actual 2026 exam papers (JEE Main, JEE Advanced, NEET). No topic swaps needed — prioritisation holds. Electrostatics added as rising entrant.
