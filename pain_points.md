@@ -1,5 +1,5 @@
 # Pain Points — JEE / NEET / Board Students
-**Last updated:** 2026-06-10
+**Last updated:** 2026-06-12
 
 ---
 
@@ -17,6 +17,7 @@
 - Students memorise formulas (I = mr², τ = Iα) but can't decide *which* formula to use when a problem mixes rotation + translation
 - JEE Advanced 2026 and NEET 2026 both had "heavy numericals, time pressure, and multi-concept problems from Rotational Motion" flagged as hardest questions
 - **NEW (June 2026):** NEET 2026 re-exam specifically flagged Rotational Motion + Magnetism as the two Physics topics requiring the deepest conceptual clarity — not formula recall
+- **NEW (June 12):** JEE Advanced 2026 analysis confirms Rotational Dynamics problems combined Energy Conservation + Angular Momentum in the same question — "tricky numericals requiring careful calculations"; most students drop the topic entirely rather than master multi-concept chains
 - Visual intuition (why does a spinning top not fall?) is completely missing from most coaching
 
 **Chinu angle:**
@@ -39,6 +40,7 @@
 - Physical Chemistry carries 50–55% of Chemistry marks — Electrochemistry is a core chapter within it
 - NEET 2026 Chemistry paper: Physical Chemistry numericals were rated "slightly tough"; Thermodynamics & Equilibrium also flagged as hard — Electrochemistry sits in the same cluster
 - **NEW (June 2026):** NEET 2026 Chemistry was described as "more conceptual and application-based" — rote learners got punished hard this year
+- **NEW (June 12):** NEET 2026 had 12–14 numerical/formula-based questions from Physical Chemistry (Thermodynamics, Electrochemistry, Chemical Kinetics) — students who blurred these three chapters together collapsed on the paper
 
 **Chinu angle:**
 > *"Galvanic cell = battery — apne aap react karta hai aur bijli deta hai. Electrolytic = charging — tujhe force karna padta hai. Yahi confusion clear karo aur 5 marks pakka."*
@@ -60,6 +62,7 @@
 - "Molecular Basis of Inheritance is considered tough by a lot of students" — direct quote from analysis
 - Questions now test application, not just recall — "which enzyme acts at the replication fork?"
 - **NEW (June 2026):** NEET 2026 Biology was heavily NCERT-based, but MBI is the one chapter where NCERT alone isn't enough — application questions tripped up mid-range scorers
+- **NEW (June 12):** Specific June 2026 student confusion spike: lac operon repressor vs inducer logic — students memorise "repressor blocks" but can't apply it under question pressure ("if inducer is absent, what happens?"). Also mitosis vs meiosis confusion remains perennial top-complaint
 
 **Chinu angle:**
 > *"DNA replication ek construction site hai — helicase contractor hai jo zip kholti hai, primase primer laata hai, DNA polymerase bricks lagaata hai. Bas itna yaad karo."*
@@ -82,6 +85,7 @@
 - JEE Advanced 2026: Calculus + Coordinate Geometry listed as top high-weightage tough topics
 - **NEW (June 2026):** JEE Advanced 2026 Paper 1 had Math described as "Paper 1 of JEE Advanced 2026 was among the toughest in recent years" — Calculus was the single biggest differentiator
 - **NEW (June 2026):** JEE Main 2026 Session 2: April 8 shift was the hardest, with Maths carrying disproportionate rank damage — students who cracked Calculus under time pressure made it
+- **NEW (June 12):** A common forum complaint surfacing this week: students know L'Hôpital's rule but don't know *when not to use it* — applying it blindly to non-indeterminate forms is a direct 0 on a straightforward 4-mark question
 
 **Chinu angle:**
 > *"Integration ka matlab hai — chhote chhote pieces jodo. Slice karo, jodo, answer nikalo. Ye wahi kaam hai jo pizza ke slice count karna tha, just with curves."*
@@ -103,6 +107,7 @@
 - JEE Advanced 2026 specifically highlighted Coordination Compounds as a high-weightage tough topic
 - **NEW (June 2026):** NEET 2026 actual paper — Inorganic Chemistry dominated: Coordination compounds + p-block + d-block elements "asked in depth" — multiple sources confirm this was the main Chemistry differentiator
 - NEET 2026: Students who skipped Coordination Compounds for "easier" topics got hurt badly
+- **NEW (June 12):** Student confusion specifically around isomerism types — geometric vs optical vs linkage isomers; many students can define them but freeze when asked "how many isomers does this complex have?" in exam conditions
 
 **Chinu angle:**
 > *"Central metal = boss, ligands = chamche. Strong field ligands (chamche jo kaam karte hain) force pairing, weak field ligands chhod dete hain electrons. Isliye colour aata hai!"*
@@ -144,12 +149,31 @@
 
 ---
 
+## New Entrant to Watch — Thermodynamics (Physics/Chemistry · JEE + NEET)
+**Priority: RISING — confirmed pain point in June 2026 exam papers**
+
+**The concept (Physics):** Laws of thermodynamics, Carnot cycle, entropy, heat engines. **The concept (Chemistry):** Hess's law, Gibbs free energy, entropy, spontaneity.
+
+**Why it's rising:**
+- JEE Advanced 2026 had a "surprise question combining Carnot cycle with entropy" that was widely flagged as the hardest Physics question in the paper
+- NEET 2026 Chemistry: Thermodynamics was among the 12–14 numerical/formula-based Physical Chemistry questions that most students found "time-consuming and mentally demanding"
+- Students treat Physics Thermodynamics and Chemistry Thermodynamics as two unrelated subjects — missing that ΔG = ΔH − TΔS is the same idea as the Carnot efficiency equation
+- Entropy is pure abstract — no visual intuition = students memorise "disorder" and get every application question wrong
+
+**Potential Chinu angle:**
+> *"Entropy matlab — ghar ka bikhraav. Saaf karo toh energy lagti hai (non-spontaneous). Khud bikhar jaaye — easy, spontaneous. Yahi ΔG > 0 vs ΔG < 0 hai."*
+- Messy room analogy: spontaneous = room gets messy by itself; non-spontaneous = cleaning needs energy input
+- 45-second hook: Carnot engine as a "perfect chai-wala" — maximum work from heat, minimum waste
+
+---
+
 ## Notes for Chinu
 
-- **Best immediate video (June 10):** Rotational Motion — confirmed as NEET 2026 re-exam differentiator, JEE Advanced toughest topic, widest cross-exam audience
-- **Hot take video:** Calculus/Integration — JEE Advanced 2026 was "one of the toughest in recent years" with Calculus as the rank-killer; high outrage/relatability potential
-- **NEET-specific quick win:** Molecular Basis of Inheritance — NEET 2026 Biology was NCERT-heavy everywhere *except* this chapter; 5–7 marks, 10-minute script
-- **Sleeper hit:** Coordination Compounds — NEET 2026 confirmed it was asked "in depth"; most students skip it; surprise factor = high virality
-- **Watch list:** Electrostatics is rising — may enter Top 5 by next update if NEET re-exam data confirms it
+- **Best immediate video (June 12):** Rotational Motion — still #1; JEE Advanced 2026 data confirms multi-concept Rotation+Energy Conservation chains are the hardest questions; widest cross-exam audience, highest 60-second hook potential
+- **Hot take video:** L'Hôpital's Rule WRONG USE — "ye rule sirf 0/0 ya ∞/∞ pe lagta hai, har jagah nahi" — a specific, surprising mistake that costs 4 marks; high outrage virality
+- **NEET-specific quick win:** Lac Operon (sub-topic of MBI) — repressor vs inducer confusion is a *specific* concept students name when they complain; 5 marks, can be done in 45 seconds with a "boss who goes on leave" analogy
+- **Sleeper hit:** Coordination Compounds isomerism count — "how many isomers does this have?" is the exam question students freeze on; visual counting trick = highly shareable
+- **Rising entrant:** Thermodynamics (Carnot+entropy combo) — JEE Advanced 2026 called it a "surprise question"; content gap is real; Physics + Chemistry crossover = broad audience
+- **Watch list:** Electrostatics still rising; Thermodynamics now confirmed — both may enter Top 5 by next update
 
-**June 10 update summary:** All 5 existing pain points confirmed by actual 2026 exam papers (JEE Main, JEE Advanced, NEET). No topic swaps needed — prioritisation holds. Electrostatics added as rising entrant.
+**June 12 update summary:** Added NEW (June 12) tags to all 5 pain points with fresh exam-paper evidence. Two new "rising" entrants: Thermodynamics (JEE Advanced 2026 confirmed) and lac operon logic (NEET Biology specific sub-pain). L'Hôpital misuse identified as a tight 60-second viral hook. Priority ranking unchanged.
