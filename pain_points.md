@@ -1,5 +1,5 @@
 # Pain Points — JEE / NEET / Board Students
-**Last updated:** 2026-06-12
+**Last updated:** 2026-06-13
 
 ---
 
@@ -18,6 +18,7 @@
 - JEE Advanced 2026 and NEET 2026 both had "heavy numericals, time pressure, and multi-concept problems from Rotational Motion" flagged as hardest questions
 - **NEW (June 2026):** NEET 2026 re-exam specifically flagged Rotational Motion + Magnetism as the two Physics topics requiring the deepest conceptual clarity — not formula recall
 - **NEW (June 12):** JEE Advanced 2026 analysis confirms Rotational Dynamics problems combined Energy Conservation + Angular Momentum in the same question — "tricky numericals requiring careful calculations"; most students drop the topic entirely rather than master multi-concept chains
+- **NEW (June 13):** Vidyamandir analysis labels JEE Advanced 2026 "among the toughest papers in recent years" — Rotational Motion + Mechanics complexity cited as primary reason; cross-topic chains are now a permanent exam design feature, not a one-year anomaly
 - Visual intuition (why does a spinning top not fall?) is completely missing from most coaching
 
 **Chinu angle:**
@@ -41,6 +42,7 @@
 - NEET 2026 Chemistry paper: Physical Chemistry numericals were rated "slightly tough"; Thermodynamics & Equilibrium also flagged as hard — Electrochemistry sits in the same cluster
 - **NEW (June 2026):** NEET 2026 Chemistry was described as "more conceptual and application-based" — rote learners got punished hard this year
 - **NEW (June 12):** NEET 2026 had 12–14 numerical/formula-based questions from Physical Chemistry (Thermodynamics, Electrochemistry, Chemical Kinetics) — students who blurred these three chapters together collapsed on the paper
+- **NEW (June 13):** JEE Main 2026 Session 2 confirmed Electrochemistry appeared across multiple shifts; experts note students consistently score zero on Nernst equation numericals (not blank — actively wrong due to sign/log errors)
 
 **Chinu angle:**
 > *"Galvanic cell = battery — apne aap react karta hai aur bijli deta hai. Electrolytic = charging — tujhe force karna padta hai. Yahi confusion clear karo aur 5 marks pakka."*
@@ -63,6 +65,7 @@
 - Questions now test application, not just recall — "which enzyme acts at the replication fork?"
 - **NEW (June 2026):** NEET 2026 Biology was heavily NCERT-based, but MBI is the one chapter where NCERT alone isn't enough — application questions tripped up mid-range scorers
 - **NEW (June 12):** Specific June 2026 student confusion spike: lac operon repressor vs inducer logic — students memorise "repressor blocks" but can't apply it under question pressure ("if inducer is absent, what happens?"). Also mitosis vs meiosis confusion remains perennial top-complaint
+- **NEW (June 13):** Re-NEET 2026 (re-exam controversy) has Biology students re-studying MBI from scratch — demand for "fast revision" content on this chapter is at peak right now; Chinu window is open
 
 **Chinu angle:**
 > *"DNA replication ek construction site hai — helicase contractor hai jo zip kholti hai, primase primer laata hai, DNA polymerase bricks lagaata hai. Bas itna yaad karo."*
@@ -86,6 +89,7 @@
 - **NEW (June 2026):** JEE Advanced 2026 Paper 1 had Math described as "Paper 1 of JEE Advanced 2026 was among the toughest in recent years" — Calculus was the single biggest differentiator
 - **NEW (June 2026):** JEE Main 2026 Session 2: April 8 shift was the hardest, with Maths carrying disproportionate rank damage — students who cracked Calculus under time pressure made it
 - **NEW (June 12):** A common forum complaint surfacing this week: students know L'Hôpital's rule but don't know *when not to use it* — applying it blindly to non-indeterminate forms is a direct 0 on a straightforward 4-mark question
+- **NEW (June 13):** JEE Advanced 2026 Paper analysis (IITians PACE + Vidyamandir) confirms Conic Sections now co-equal with Calculus in difficulty and rank damage — parabola/ellipse questions combined with Coordinate Geometry in multi-step problems; see "New Entrant" section below
 
 **Chinu angle:**
 > *"Integration ka matlab hai — chhote chhote pieces jodo. Slice karo, jodo, answer nikalo. Ye wahi kaam hai jo pizza ke slice count karna tha, just with curves."*
@@ -108,6 +112,7 @@
 - **NEW (June 2026):** NEET 2026 actual paper — Inorganic Chemistry dominated: Coordination compounds + p-block + d-block elements "asked in depth" — multiple sources confirm this was the main Chemistry differentiator
 - NEET 2026: Students who skipped Coordination Compounds for "easier" topics got hurt badly
 - **NEW (June 12):** Student confusion specifically around isomerism types — geometric vs optical vs linkage isomers; many students can define them but freeze when asked "how many isomers does this complex have?" in exam conditions
+- **NEW (June 13):** GOC (General Organic Chemistry) is an emerging co-pain alongside Coordination Compounds — JEE Main 2026 Session 2 had GOC questions in multiple shifts; students confuse inductive vs resonance vs hyperconjugation effects when predicting reactivity order; see "New Entrant" section for GOC detail
 
 **Chinu angle:**
 > *"Central metal = boss, ligands = chamche. Strong field ligands (chamche jo kaam karte hain) force pairing, weak field ligands chhod dete hain electrons. Isliye colour aata hai!"*
@@ -167,13 +172,55 @@
 
 ---
 
+## New Entrant to Watch — Conic Sections (Mathematics · JEE)
+**Priority: RISING — confirmed June 13**
+
+**The concept:** Parabola, ellipse, hyperbola — equations, tangents, normals, foci, latus rectum.
+
+**Why it's rising:**
+- JEE Advanced 2026 Paper analysis (IITians PACE, Vidyamandir) puts Conic Sections alongside Calculus as the two Mathematics chapters responsible for the rank gap
+- Questions combine Coordinate Geometry + Conic properties in multi-step chains — same "multi-concept" pattern as Rotational Motion in Physics
+- Students know standard forms (y² = 4ax) but cannot handle "tangent from external point to ellipse" type combined questions under time pressure
+- JEE Main 2026 Session 2 April 8 (toughest shift): Conic Sections explicitly noted in difficulty analysis
+
+**Potential Chinu angle:**
+> *"Parabola = satellite dish ka shape. Isliye TV signal dish mein bounce karke ek point pe focus hota hai. Wahi focus point hai parabola ka — formula toh bass yaad karo."*
+- Satellite dish / torchlight reflector analogy: all rays converge at focus = geometric meaning of focus
+- 45-second hook: "har conic section ek cone ko cut karne ka tarika hai" — visual slice of a cone for each type
+
+**Sources:** [IITians PACE JEE Advanced 2026 Analysis](https://iitianspace.com/jee-advanced-2026-analysis/) · [Vidyamandir JEE Advanced 2026](https://vidyamandir.com/studyhub/jee-advanced-2026-toughest-paper-analysis/) · [Vedantu JEE Advanced Analysis](https://www.vedantu.com/jee-advanced/2026-question-paper)
+
+---
+
+## New Entrant to Watch — GOC / General Organic Chemistry (Chemistry · JEE)
+**Priority: RISING — confirmed June 13**
+
+**The concept:** Inductive effect, resonance, hyperconjugation, carbocation/carbanion stability, electron withdrawal/donation, reaction mechanism prediction.
+
+**Why it's rising:**
+- JEE Main 2026 Session 2 had GOC questions in multiple shifts — flagged by eSaral and PW analysis
+- GOC is the "gateway" chapter: if students don't master it, all downstream Organic Chemistry (reactions, mechanisms) becomes guesswork
+- Students confuse when to apply inductive vs resonance effect — especially in predicting acidic/basic strength order and carbocation stability
+- Common exam trap: "which is more stable, tertiary carbocation or allylic carbocation?" — students who just memorise 3°>2°>1° get the allylic case wrong every time
+
+**Potential Chinu angle:**
+> *"Carbocation stability = kitne dost hain electron dene waale. Tertiary = 3 dost, allylic = resonance ki wajah se extra dost. Allylic jeetega — kyunki sharing karke aur zyada stable hota hai."*
+- Popularity contest analogy: more electron-donating groups = more "support" = more stable cation
+- 60-second hook: draw three carbocations, rank them, explain why with one-line rule per type
+
+**Sources:** [eSaral JEE Main 2026 Analysis](https://www.esaral.com/jee-main-2026-complete-paper-analysis-all-shifts/) · [PW Toughest JEE Chapters](https://www.pw.live/iit-jee/exams/toughest-chapters-in-jee-mains) · [NEET Chemistry Syllabus 2026](https://www.pw.live/neet/exams/neet-chemistry-syllabus)
+
+---
+
 ## Notes for Chinu
 
-- **Best immediate video (June 12):** Rotational Motion — still #1; JEE Advanced 2026 data confirms multi-concept Rotation+Energy Conservation chains are the hardest questions; widest cross-exam audience, highest 60-second hook potential
+- **Best immediate video (June 13):** Rotational Motion — still #1; Vidyamandir confirms JEE Advanced 2026 was "toughest in recent years" with Rotation as primary culprit; now a permanent multi-concept exam feature, not a fluke — widest audience, highest hook potential
+- **NEET timing window (June 13):** MBI / Molecular Basis of Inheritance — Re-NEET 2026 controversy has students revising Biology right now; peak demand for fast-revision Biology content; lac operon in 45 seconds is the ideal format
 - **Hot take video:** L'Hôpital's Rule WRONG USE — "ye rule sirf 0/0 ya ∞/∞ pe lagta hai, har jagah nahi" — a specific, surprising mistake that costs 4 marks; high outrage virality
-- **NEET-specific quick win:** Lac Operon (sub-topic of MBI) — repressor vs inducer confusion is a *specific* concept students name when they complain; 5 marks, can be done in 45 seconds with a "boss who goes on leave" analogy
+- **New quick win (June 13):** GOC carbocation stability — allylic vs tertiary trap question is the exact MCQ students get wrong while thinking they know the answer; "betrayal" framing = viral
+- **New quick win (June 13):** Conic Sections satellite dish hook — Conic Sections is now confirmed co-equal with Calculus in JEE rank damage; almost no short-form content exists on this; first-mover advantage for Chinu
 - **Sleeper hit:** Coordination Compounds isomerism count — "how many isomers does this have?" is the exam question students freeze on; visual counting trick = highly shareable
 - **Rising entrant:** Thermodynamics (Carnot+entropy combo) — JEE Advanced 2026 called it a "surprise question"; content gap is real; Physics + Chemistry crossover = broad audience
-- **Watch list:** Electrostatics still rising; Thermodynamics now confirmed — both may enter Top 5 by next update
+- **Watch list:** Electrostatics still rising; GOC and Conic Sections now confirmed risers; all three may enter Top 5 by next update
 
-**June 12 update summary:** Added NEW (June 12) tags to all 5 pain points with fresh exam-paper evidence. Two new "rising" entrants: Thermodynamics (JEE Advanced 2026 confirmed) and lac operon logic (NEET Biology specific sub-pain). L'Hôpital misuse identified as a tight 60-second viral hook. Priority ranking unchanged.
+**June 13 update summary:** Added NEW (June 13) tags across all 5 pain points. Vidyamandir's post-exam analysis (JEE Advanced 2026 "toughest in recent years") strengthens Rotational Motion and Calculus at #1 and #4. Re-NEET 2026 controversy opens a time-sensitive window for MBI content. Two new entrants added: Conic Sections (Mathematics, confirmed JEE rank damage) and GOC (Organic Chemistry gateway, JEE Main 2026 multi-shift appearance). Electrochemistry Nernst sign-error trap newly documented.
