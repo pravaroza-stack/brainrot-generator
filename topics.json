@@ -64,6 +64,11 @@
       "id": "capacitor_energy_loss",
       "title": "Capacitor Ko Charge Karo Aur Aadhi Energy Gum Ho Jaye 🤯",
       "script": "Hi mai Chinu hu aaj tujhe woh cheez bataunga jo JEE Advanced 2026 mein Electrostatics ke question mein sabko confuse kar gaya.\nBhai ek capacitor le, battery se connect kar, fully charge ho gaya. Battery ne Q charge diya, voltage V tha. Toh battery ne kitna kaam kiya? QV energy di.\nPar capacitor mein kitni energy store hui? Sirf half QV, yaani QV by 2. Baki aadhi energy gayi kahan, bc?\nYahi twist hai saale - aadhi energy hamesha heat mein waste ho jaati hai wire ki resistance mein. Chahe resistance zero bhi ho, phir bhi aadhi energy radiate ho jaati hai electromagnetic waves ke roop mein.\nYeh energy conservation violate nahi karta - energy conserve hoti hai, par half hamesha tumhare haath nahi aati, bsdk.\nIsliye capacitor ki stored energy half CV squared hai, full CV squared nahi. Yeh fact seedha exam mein aata hai.\nJEE Advanced 2026 mein Electrostatics ne sab ka kaam tamam kar diya - yeh property yaad hoti toh aadhe marks aur milte, maa kasam. Follow for more!"
+    },
+    {
+      "id": "lac_operon_neet",
+      "title": "Lac Operon Ka Chakkar - NEET Mein Har Saal Aata Hai 🧬",
+      "script": "Hi mai Chinu hu aaj tujhe Lac Operon bataunga jo NEET Biology mein har saal aata hai aur saala har baar confuse karta hai.\nBhai simple hai - bacteria ko lactose khilaao, toh genes ON ho jaate hain lactose digest karne ke liye. Nahi khilaao toh genes OFF. Energy bachao, common sense, bc.\nLac Operon mein teen structural genes hain - lacZ, lacY, lacA. Teen yaad kar, ek bhi bhool gaya toh marks gaye bsdk.\nJab lactose nahi hai, repressor protein DNA se chipak jaata hai operator pe aur genes block ho jaate hain. Saala bouncer ki tarah khada hai.\nLactose aata hai toh allolactose ban ke repressor ko uthake phek deta hai. RNA polymerase ghusa, genes chalu, enzymes bane, lactose haazam ho gaya - sorted saale.\nPar twist hai - sirf lactose ka hona kaafi nahi! Glucose bhi nahi hona chahiye tabhi poora operon ON hota hai. Glucose nahi hai toh cAMP badhta hai, CAP protein activate hota hai - tabhi full expression.\nBacteria bolte hain pehle easy glucose khaao, Lac Operon ki mehnat baad mein karo bsdk. Bacteria bhi topper ki tarah sochta hai - maa kasam. Follow for more!"
     }
   ],
   "current_index": 9
