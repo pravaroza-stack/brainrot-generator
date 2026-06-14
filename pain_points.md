@@ -1,5 +1,5 @@
 # Pain Points — JEE / NEET / Board Students
-**Last updated:** 2026-06-13
+**Last updated:** 2026-06-14
 
 ---
 
@@ -19,6 +19,7 @@
 - **NEW (June 2026):** NEET 2026 re-exam specifically flagged Rotational Motion + Magnetism as the two Physics topics requiring the deepest conceptual clarity — not formula recall
 - **NEW (June 12):** JEE Advanced 2026 analysis confirms Rotational Dynamics problems combined Energy Conservation + Angular Momentum in the same question — "tricky numericals requiring careful calculations"; most students drop the topic entirely rather than master multi-concept chains
 - **NEW (June 13):** Vidyamandir analysis labels JEE Advanced 2026 "among the toughest papers in recent years" — Rotational Motion + Mechanics complexity cited as primary reason; cross-topic chains are now a permanent exam design feature, not a one-year anomaly
+- **NEW (June 14):** JEE Advanced 2026 Paper 2 (confirmed tougher than Paper 1) had "lengthy, wordy problems in Electrodynamics and Mechanics that exhausted students' time" — Mechanics here = Rotational Dynamics + Newton's Laws combined; direct cross-confirmation that multi-concept Mechanics chains are the single biggest Physics rank killer
 - Visual intuition (why does a spinning top not fall?) is completely missing from most coaching
 
 **Chinu angle:**
@@ -66,6 +67,7 @@
 - **NEW (June 2026):** NEET 2026 Biology was heavily NCERT-based, but MBI is the one chapter where NCERT alone isn't enough — application questions tripped up mid-range scorers
 - **NEW (June 12):** Specific June 2026 student confusion spike: lac operon repressor vs inducer logic — students memorise "repressor blocks" but can't apply it under question pressure ("if inducer is absent, what happens?"). Also mitosis vs meiosis confusion remains perennial top-complaint
 - **NEW (June 13):** Re-NEET 2026 (re-exam controversy) has Biology students re-studying MBI from scratch — demand for "fast revision" content on this chapter is at peak right now; Chinu window is open
+- **NEW (June 14):** Confirmed today — Genetics as a whole (MBI + Principles of Inheritance) contributes nearly **one-quarter of all Botany questions** in NEET. Skipping it is existential. Students still treat it as "hard to memorise" — Chinu can reframe as "5 concept types, infinite questions."
 
 **Chinu angle:**
 > *"DNA replication ek construction site hai — helicase contractor hai jo zip kholti hai, primase primer laata hai, DNA polymerase bricks lagaata hai. Bas itna yaad karo."*
@@ -90,6 +92,7 @@
 - **NEW (June 2026):** JEE Main 2026 Session 2: April 8 shift was the hardest, with Maths carrying disproportionate rank damage — students who cracked Calculus under time pressure made it
 - **NEW (June 12):** A common forum complaint surfacing this week: students know L'Hôpital's rule but don't know *when not to use it* — applying it blindly to non-indeterminate forms is a direct 0 on a straightforward 4-mark question
 - **NEW (June 13):** JEE Advanced 2026 Paper analysis (IITians PACE + Vidyamandir) confirms Conic Sections now co-equal with Calculus in difficulty and rank damage — parabola/ellipse questions combined with Coordinate Geometry in multi-step problems; see "New Entrant" section below
+- **NEW (June 14):** JEE Advanced 2026 Paper 2 Math also flagged as second hardest subject — the "lengthy calculations" pattern persists across both papers; students who cannot do integration at speed under pressure are bleeding rank in both sessions. Functions, Indefinite Integrals, Limits, and Matrices all co-appeared in the toughest shifts of JEE Main 2026 Session 2, confirming Calculus is the backbone weakness across all JEE variants.
 
 **Chinu angle:**
 > *"Integration ka matlab hai — chhote chhote pieces jodo. Slice karo, jodo, answer nikalo. Ye wahi kaam hai jo pizza ke slice count karna tha, just with curves."*
@@ -212,15 +215,41 @@
 
 ---
 
+## New Entrant to Watch — Organic Chemistry Reaction Mechanisms (Chemistry · NEET)
+**Priority: RISING FAST — confirmed June 14 — high viral potential**
+
+**The concept:** Named reactions, substitution (SN1/SN2), addition, elimination, oxidation-reduction mechanisms — understanding *why* each step happens, not just memorising the product.
+
+**Why it's rising:**
+- NEET 2026: ~12–14 questions from Organic Chemistry — the single biggest Chemistry section
+- **Quantified marks gap (NEW June 14):** Students who *memorise* reactions score **20–35 marks** in Organic Chemistry. Students who *understand mechanisms* score **40–50 marks**. That is a **~15 mark difference** — which experts explicitly call "the gap between getting MBBS and not getting MBBS."
+- This 15-mark gap is the clearest, most specific stakes claim in all of NEET preparation — extremely viral-friendly
+- Root cause: students rote-learn "A → B with reagent C" but cannot answer "why does B form and not D?" under pressure
+- Organic Chemistry carries 30–35% of NEET Chemistry weightage — mechanisms are unavoidable
+- Very few short-form content creators have built video content around the *mechanism* understanding gap specifically; Chinu has first-mover advantage here
+
+**Potential Chinu angle:**
+> *"Rote kiya toh 20-35 marks. Mechanism samjha toh 40-50 marks. Woh 15 marks ka farak hai MBBS milega ya nahi. 60 seconds mein SN2 mechanism samjho — ek kadam mein nucleophile attack karta hai, leaving group jaata hai. Attack hota hai peeche se — jaise koi dhakka de."*
+- **Hook:** "Ek cheez samajhne se 15 marks extra — ye cheez kisi ne nahi bataya"
+- Backside attack analogy: SN2 = someone sneaking up from behind to push the leaving group out — inversion guaranteed
+- SN1 vs SN2 in 60 seconds: "carbocation stable hai? SN1. Nahi hai? SN2. Bas."
+
+**Sources:** [NEET Organic Chemistry Weightage 2026](https://www.clcsikar.com/blog/organic-chemistry-weightage-in-neet-2026) · [NEET Reaction Mechanism Practice](https://www.neetprep.com/questions/54-Chemistry/7464-Reaction-Mechanism---Organic-Chemistry) · [EduAI NEET Organic Strategy 2026](https://eduaitutors.com/blogs/neet-organic-chemistry-2026-chapter-wise-topics-key-reactions-and-preparation-strategy/)
+
+---
+
 ## Notes for Chinu
 
-- **Best immediate video (June 13):** Rotational Motion — still #1; Vidyamandir confirms JEE Advanced 2026 was "toughest in recent years" with Rotation as primary culprit; now a permanent multi-concept exam feature, not a fluke — widest audience, highest hook potential
-- **NEET timing window (June 13):** MBI / Molecular Basis of Inheritance — Re-NEET 2026 controversy has students revising Biology right now; peak demand for fast-revision Biology content; lac operon in 45 seconds is the ideal format
+- **Best immediate video (June 14):** Rotational Motion — still #1; JEE Advanced 2026 Paper 2 cross-confirms multi-concept Mechanics chains as the #1 Physics rank killer; the widest audience, highest hook potential video Chinu can make right now
+- **🔥 HIGHEST VIRAL POTENTIAL (June 14 NEW):** Organic Chemistry Reaction Mechanisms for NEET — the "15 marks = MBBS ya nahi" hook is quantified, specific, and devastating; almost zero short-form content exists on mechanism understanding vs memorisation; **make this video this week**
+- **NEET timing window (June 13–14):** MBI / Molecular Basis of Inheritance — Re-NEET 2026 controversy + Genetics being 1/4 of Botany = peak demand for fast-revision Biology content right now; lac operon in 45 seconds is the ideal format
 - **Hot take video:** L'Hôpital's Rule WRONG USE — "ye rule sirf 0/0 ya ∞/∞ pe lagta hai, har jagah nahi" — a specific, surprising mistake that costs 4 marks; high outrage virality
 - **New quick win (June 13):** GOC carbocation stability — allylic vs tertiary trap question is the exact MCQ students get wrong while thinking they know the answer; "betrayal" framing = viral
 - **New quick win (June 13):** Conic Sections satellite dish hook — Conic Sections is now confirmed co-equal with Calculus in JEE rank damage; almost no short-form content exists on this; first-mover advantage for Chinu
 - **Sleeper hit:** Coordination Compounds isomerism count — "how many isomers does this have?" is the exam question students freeze on; visual counting trick = highly shareable
 - **Rising entrant:** Thermodynamics (Carnot+entropy combo) — JEE Advanced 2026 called it a "surprise question"; content gap is real; Physics + Chemistry crossover = broad audience
-- **Watch list:** Electrostatics still rising; GOC and Conic Sections now confirmed risers; all three may enter Top 5 by next update
+- **Watch list:** Electrostatics rising; Organic Mechanisms (NEET) and Genetics confirmed new risers
+
+**June 14 update summary:** Added NEW (June 14) tags to Rotational Motion (Paper 2 Mechanics cross-confirm), Calculus (Paper 2 persistence), and MBI (Genetics = 1/4 Botany confirmed). Added new "Organic Chemistry Reaction Mechanisms" as a New Entrant — the 15-mark gap between memorisers and mechanism-understanders is the most quantified, viral-ready hook found to date across all pain point research; first-mover window open for Chinu. JEE Advanced 2026 Paper 2 analysis confirms Paper 2 > Paper 1 difficulty, with Mechanics+Electrodynamics the primary rank killers.
 
 **June 13 update summary:** Added NEW (June 13) tags across all 5 pain points. Vidyamandir's post-exam analysis (JEE Advanced 2026 "toughest in recent years") strengthens Rotational Motion and Calculus at #1 and #4. Re-NEET 2026 controversy opens a time-sensitive window for MBI content. Two new entrants added: Conic Sections (Mathematics, confirmed JEE rank damage) and GOC (Organic Chemistry gateway, JEE Main 2026 multi-shift appearance). Electrochemistry Nernst sign-error trap newly documented.
