@@ -1,5 +1,5 @@
 # Chinu Hook Playbook
-*Last updated: 2026-06-07*
+*Last updated: 2026-06-13*
 
 ---
 
@@ -234,52 +234,54 @@ The brainrot format is itself a System 1 exploit: continuous gameplay motion kee
 ---
 
 ## 5 New Chinu-Style Hooks to Try This Week
-*(Week of June 7, 2026 — topics: Rotational Motion, Integration, Electrochemistry)*
+*(Week of June 13, 2026 — topics: MBI / Re-NEET, GOC Carbocation, Conic Sections, L'Hôpital Misuse, Rotational Motion "Toughest Ever")*
 
-These are A/B test candidates — each uses a different psychological lever from the May 31 batch. Post with the same content, different hook, 48–72 hours apart. This week's hooks lean into the top-3 2026 formulas: Contrarian Claim, Mistake Warning, and List Tease.
+These are A/B test candidates for June 13–20 — each uses a different psychological lever. Post with the same content, different hook, 48–72 hours apart. **Re-NEET is June 21 — 8 days away. MBI hooks are time-urgent; post Hook F first.**
 
-### Hook A — Mistake Warning × Rotational Motion
-> *"Yeh ek galti 90% JEE students Rotational Motion mein karte hain — aur yahi 10 marks le jaati hai, bc."*
+This week's hooks lean into: **Stakes × Time Urgency** (Re-NEET window), **Betrayal/Mistake Warning** (GOC carbocation), **Contrarian Claim** (L'Hôpital), **Shock/Number** (Rotational Motion "toughest ever"), and **Curiosity Gap** (Conic Sections first-mover).
 
-**First-frame text:** `This mistake = -10 marks in JEE ❌`
+### Hook F — Stakes × Time Urgency × MBI *(POST FIRST — highest urgency)*
+> *"Re-NEET 21 June — 8 din bache hain. Yeh ek chapter 5 guaranteed marks deta hai. Aaj yaad kar le, bc."*
 
-**Why try it:** Pure Mistake Warning formula — top-performing hook type of 2026. Rotational Motion is the #1 pain point topic right now. Specificity ("10 marks") converts curiosity into urgency.
+**First-frame text:** `8 days. 5 NEET marks. This chapter. ⏳`
 
----
-
-### Hook B — Contrarian Claim × Integration
-> *"Integration padhna band kar — seriously. Ek trick hai jo 80% sawaal bina formula ke solve kar deti hai, saale."*
-
-**First-frame text:** `Stop studying integration (seriously)`
-
-**Why try it:** Contrarian Claim is the #1 2026 formula. "Stop studying X" from an edu channel triggers massive cognitive dissonance. Integration is the #4 pain point with a big JEE Maths audience hungry for shortcuts.
+**Why try it:** Pure Stakes + Time Urgency — creates a hard deadline that the viewer cannot argue with. Re-NEET audience is desperate and highly engaged right now; they will watch anything actionable. MBI (Molecular Basis of Inheritance) has 5–7 questions per paper — one of the highest guaranteed-marks chapters. Post this today or tomorrow while the Re-NEET urgency is peak.
 
 ---
 
-### Hook C — List Tease × NEET Biology
-> *"Teen enzymes hain — DNA replication ke teen steps. Ek bhi miss hua toh NEET mein 5 marks pakka gaye, bc."*
+### Hook G — Betrayal Mistake Warning × GOC Carbocation
+> *"Tune socha tha 3° carbocation sabse stable hota hai — wrong hai, bc. Allylic carbocation jeet jaata hai. JEE Main ne yahi poochha tha. Aaj fix kar le."*
 
-**First-frame text:** `3 enzymes. 5 NEET marks. 60 seconds.`
+**First-frame text:** `You got this wrong → carbocation stability ❌`
 
-**Why try it:** List Tease is the #3 top 2026 formula. Stakes are explicit (5 marks), the time promise is low (60s), and it directly addresses the Molecular Basis of Inheritance pain point — 5-7 questions per NEET paper.
-
----
-
-### Hook D — Absurd Analogy Drop × Electrochemistry
-> *"Galvanic cell = teri body. Khaana khaata hai, khud hi energy generate karta hai. Electrolytic = phone charger — force karna padta hai. Bas itna yaad rakh, 5 marks pakka, saale."*
-
-**First-frame text:** `You = galvanic cell. Your charger = electrolytic. 🔋`
-
-**Why try it:** Analogy-first hook that makes abstract chemistry instantly relatable before the viewer decides to swipe. No question, no challenge — just a pattern interrupt comparison that demands a second look. Electrochemistry is pain point #2.
+**Why try it:** Betrayal hook — viewer thinks they know the answer, video tells them they're wrong. This is the exact question students get confidently wrong in JEE Main 2026 Session 2. The "wrong hai" delivery hits System 1 ego-threat hard before the brain can defend. GOC is the gateway chapter — every organic reaction downstream depends on getting this right.
 
 ---
 
-### Hook E — Dark Number × Rotational Motion
-> *"4 second mein yeh sawaal solve hota hai — 40 minute lagaye toh bhi nahi hua? Isiliye, bc. Aaj fix karta hu."*
+### Hook H — Contrarian Claim × L'Hôpital Rule
+> *"L'Hôpital ka rule mat lagao — seriously. 80% cases mein yeh zero deta hai aur tujhe pata bhi nahi chalta, saale."*
 
-**First-frame text:** `4 seconds vs 40 minutes — same problem 💀`
+**First-frame text:** `Stop using L'Hôpital (you're using it wrong)`
 
-**Why try it:** Number contrast hook (4 seconds vs 40 minutes) creates instant envy + FOMO. Works on the Rotational Motion audience who's already lost time on this topic. The "isiliye" implies a hidden reason the viewer doesn't know yet — curiosity gap embedded inside a number hook.
+**Why try it:** Contrarian Claim is the #1 2026 hook formula. "Stop using X" from an edu channel creates cognitive dissonance — nobody expects to be told to stop using a formula they studied for months. The JEE Advanced 2026 data confirms this is a live 4-mark trap (applying L'Hôpital to non-indeterminate forms). High outrage shareability — students will send this to their study groups.
+
+---
+
+### Hook I — Shock/Disbelief × Rotational Motion *(Toughest Ever Angle)*
+> *"JEE Advanced 2026 abhi tak ka sabse tough paper tha — aur sabse zyada marks Rotational Motion mein gaye. Ek cheez samajh le, woh bhi nahi ghata, bc."*
+
+**First-frame text:** `JEE Advanced 2026 = hardest ever 🤯 Here's why`
+
+**Why try it:** Shock hook anchored to a real, recent event (Vidyamandir + IITians PACE both called JEE Advanced 2026 "toughest in recent years"). Rotational Motion as the primary culprit is confirmed data — not opinion. The "abhi tak ka sabse tough" claim creates instant relevance for JEE 2027 aspirants who are scared and searching for what to prioritize.
+
+---
+
+### Hook J — Curiosity Gap × Conic Sections *(First-Mover Opportunity)*
+> *"Satellite dish kyun kaam karti hai — aur yahi JEE Advanced ka ek sawaal hai. Parabola ka ek property — yaad kiya toh 4 marks pakka, bc."*
+
+**First-frame text:** `Why does a satellite dish work? 🛸 (JEE Advanced answer)`
+
+**Why try it:** Almost zero short-form content exists on Conic Sections in brainrot format — confirmed first-mover gap from June 13 research. The satellite dish angle gives an intuitive real-world hook before the math arrives. JEE Advanced 2026 now confirms Conic Sections co-equal with Calculus in rank damage — this is the time to own this topic before any competitor notices. Curiosity gap is the engine: the satellite dish question demands a resolution.
 
 ---
 

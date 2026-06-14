@@ -1,5 +1,5 @@
 # Competitor Insights — Chinu Hindi Brainrot Education Channel
-*Last updated: 2026-06-12*
+*Last updated: 2026-06-13*
 
 ---
 
@@ -8,7 +8,7 @@
 ### #1 — NEET 2026 Paper Leak & RE-NEET Controversy 🚨
 **Why it's exploding:** NEET UG 2026 was cancelled on May 12, 2026 after a verified paper leak — 2.27M+ aspirants affected. Protests, Supreme Court petitions, NTA denial. Every major edu-channel has 2–5 shorts on this. Estimated views on top PW shorts: **2M–5M+**.
 
-**Update June 12:** RE-NEET is now officially confirmed for **June 21, 2026** — 9 days away. This is the single most urgent content window right now. Pre-exam anxiety content will spike sharply in the next 72 hours.
+**Update June 13:** RE-NEET is confirmed for **June 21, 2026** — **8 days away**. This is the single most urgent content window right now. Pre-exam anxiety and last-minute prep content is at peak demand — post daily from today through June 20.
 
 **New this week (June 9):** A student's own speech about the NEET leak went viral organically — raw anger content outperforming polished explainers.
 
@@ -185,7 +185,7 @@
 ---
 
 ### Gap #5 — RE-NEET June 21 Last-Minute Prep Content *(New — June 12, URGENT)*
-**What's missing:** RE-NEET is 9 days away. Every channel is focused on explaining the controversy — almost nobody is giving **actionable last-minute prep content** for the students who now have to sit the exam. This is an immediate audience need with a hard deadline.
+**What's missing:** RE-NEET is **8 days away** (June 21). Every channel is focused on explaining the controversy — almost nobody is giving **actionable last-minute prep content** for the students who now have to sit the exam. This is an immediate audience need with a hard deadline.
 
 **Chinu angle:** `"RE-NEET 21 June — 9 din bache hain. Yeh 3 chapters aate hain sabse zyada. Padh le, bc."` → pivot from anger content to utility content, right when competitors are still replaying outrage.
 
@@ -201,7 +201,7 @@
 ## 4. New Trends Spotted
 
 ### Trend 1 — Brainrot Format Going Mainstream in India 🧠
-The "Italian brainrot" dual-stimulus format (gameplay video below + narration above) has crossed from niche to mainstream in India by mid-2026. Epidemic Sound and YouTube's own 2026 trend reports cite it as a top format. Indian students are actively searching for brainrot-style educational content. Chinu is positioned at the exact right moment — first-mover advantage window is **3–7 more weeks** as of June 12 (narrowed from the June 9 estimate of 4–8 weeks — act fast).
+The "Italian brainrot" dual-stimulus format (gameplay video below + narration above) has crossed from niche to mainstream in India by mid-2026. Epidemic Sound and YouTube's own 2026 trend reports cite it as a top format. Indian students are actively searching for brainrot-style educational content. Chinu is positioned at the exact right moment — first-mover advantage window is **2–6 more weeks** as of June 13 (narrowed from June 12 estimate of 3–7 weeks — act fast).
 
 ### Trend 2 — Topical Urgency Window Compressed to 24–36 Hours
 The viral window for news-driven content (NEET leak, JEE result) is now **24–36 hours** per 2026 algorithm data. After 48 hours, the same content gets 10x fewer impressions. Any NEET/JEE news short needs to post within the day of the news breaking — same-day pipeline required.
@@ -216,7 +216,7 @@ The NEET 2026 cycle has temporarily made controversy/news content far more viral
 Students who prepared for 2 years and had their exam cancelled are experiencing peak negative emotion right now. Content that acknowledges this anger — not just explains the news — will hit harder. Raw student speech content is now confirmed viral (student NEET speech clip went organic this week). Hook format: `"2 saal ki mehnat, 1 paper leak, aur system ne phir cheat kiya — yeh feel karta hai aaj, bc."` No competitor has gone here emotionally; most content is analytical.
 
 ### Trend 6 — Khan Sir vs Media = YouTube Educator Identity Moment
-The Anjana Om Kashyap row (June 1, 2026) has made "online educator vs traditional media" a live identity-politics topic for students. YouTube-educated students are defending their teachers viscerally. Any short that positions Chinu as "one of them" (a real teacher vs the establishment) will tap this emotional current. Window: ~2–4 days remaining before news cycle moves on.
+The Anjana Om Kashyap row (June 1, 2026) has made "online educator vs traditional media" a live identity-politics topic for students. YouTube-educated students are defending their teachers viscerally. Any short that positions Chinu as "one of them" (a real teacher vs the establishment) will tap this emotional current. Window: **Effectively expired as of June 13** — news cycle has moved on. Do not prioritize over Re-NEET content.
 
 ### Trend 7 — AI Thumbnail Generation Now Table Stakes
 Top creators are A/B testing 5–10 AI-generated thumbnail variants per short. Miraflow, Canva AI, and Kling AI dominate this workflow in India. Core design formula still holds: **complementary high-contrast pair** (yellow/violet, red/cyan, blue/orange) + bold 3–4 word text + face with strong emotion. Anyone not testing thumbnails is leaving 20–40% CTR on the table.
